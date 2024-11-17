@@ -99,7 +99,7 @@ export const CTASection = () => (
             rel="noopener noreferrer"
             className="text-white"
           >
-            <span className="text-5xl">₱39,900</span> <span className="text-xl">CLP</span>
+            <span className="text-5xl">$39,900</span> <span className="text-xl">CLP</span>
           </a>
         </div>
         <p className="text-2xl opacity-90 mb-8">Полный курс лечения{' '}
